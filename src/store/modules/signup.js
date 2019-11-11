@@ -5,6 +5,7 @@ import { buildSuccess, handleError } from '@/utils/utils.js'
 
 const actions = {
   userSignUp({ commit }, payload) {
+    console.log(payload)
     return new Promise((resolve, reject) => {
       commit(types.SHOW_LOADING, true)
       api
