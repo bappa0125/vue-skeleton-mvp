@@ -1,5 +1,5 @@
 export default {
-  apiKey: 'AIzaSyCfL9ek_B7F84-oLGfJwv-vCMBxKAnye1w',
+  apiKey: '',
   authDomain: 'vue-techcloudonline.firebaseapp.com',
   databaseURL: 'https://vue-techcloudonline.firebaseio.com',
   projectId: 'vue-techcloudonline',
